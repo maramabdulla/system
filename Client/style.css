@@ -1,0 +1,29 @@
+.table{
+    border: 1px solid black;
+}
+.table td{
+    border: 1px solid black;
+}
+a:link{
+
+    text-align: center;
+    color:white;
+    text-decoration: none;
+}
+h1{
+    background-color: brown;
+    color: white;
+    
+}
+.link1{
+    text-align: center;
+    
+    color:white;
+    text-decoration: none;
+}
+.link2{
+    text-align: center;
+    background-color: brown;
+    color:white;
+    text-decoration: none;
+}
